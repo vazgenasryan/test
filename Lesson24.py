@@ -193,5 +193,3 @@ import string
 #             return 'triangle is squertriangle'
 #         else:
 #             return 'not squertriangle'
-
-print('Hello')
